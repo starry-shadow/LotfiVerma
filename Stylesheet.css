@@ -1,0 +1,15 @@
+body{
+    background-color: #464355;
+    word-wrap: break-word;
+    color: rgb(143, 228, 140);
+}
+div{
+    width: 8in;
+    margin-left: 8%;
+    word-wrap: break-word;
+
+}
+#extras{
+    background-color: #36343d;
+    width:auto;
+}
