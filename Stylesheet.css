@@ -3,13 +3,18 @@ body{
     word-wrap: break-word;
     color: rgb(143, 228, 140);
 }
-div{
+#default_div{
     width: 8in;
     margin-left: 8%;
     word-wrap: break-word;
 
 }
-#extras{
+ #footer{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    height:auto;
     background-color: #36343d;
-    width:auto;
+    flex-direction: column;
 }
